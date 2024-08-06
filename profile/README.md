@@ -8,7 +8,7 @@
 </h4>
 <h2 align="center">
   <p>Advancing Open Source AI in Life Sciences | Collaboration | Innovation</p>
-  <a href="https://www.example.com"><b>Open Source AI Is the Path Forward.</b></a>
+  <a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"><b>Open Source AI Is the Path Forward.</b></a>
 </h2>
 <div align="center">
 Open Life Science AI (OLSA) is dedicated to revolutionizing the application of Artificial Intelligence in life sciences and healthcare. We serve as a central hub for medical models, datasets, benchmarks, and research collaboration, fostering innovation in AI-assisted healthcare. Our mission is to establish OLSA as the premier destination for anyone interested in the intersection of AI and healthcare.
