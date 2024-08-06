@@ -7,7 +7,7 @@
   </a>
 </h4>
 <h2 align="center">
-  <p>Advancing Open Source AI in Life Sciences | Collaboration | Innovation</p>
+  <p>Advancing Open Source AI (LLMs) in Life Sciences | Collaboration | Innovation</p>
   <a href="https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/"><b>Open Source AI Is the Path Forward.</b></a>
 </h2>
 <div align="center">
